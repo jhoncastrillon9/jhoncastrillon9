@@ -1,6 +1,4 @@
 
-<img src="https://media.licdn.com/dms/image/C4D16AQGiSVBxmO1R-Q/profile-displaybackgroundimage-shrink_350_1400/0/1643924756745?e=1683763200&v=beta&t=KOcZ6tYrxRZFD6oxkMuP0gVZ1IkP_uHzCAdjIqbRznA" width="100%" align="right" />
-
 # 👋 Welcome to my Github Profile
   
   <p align ="center">
