@@ -29,8 +29,7 @@
 </br>
 
 - 🔧 I’m currently working on Side Project App.
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning Redis and RabbitMQ.
+- 💡 I’m curious about ...Redis, RabbitMQ, GraphQl
 - ❄️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me jhoncastrillon9@gmail.com
 
